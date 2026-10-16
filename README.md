@@ -21,3 +21,6 @@ you can also dump so erm idk either ways this bypass is shit, bro got caught und
 
 
 somehow couldnt crack this :( maybe in future but idk abt now this nga will probably change backend so erm
+
+sysmain off = ban
+clear journal = ban
