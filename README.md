@@ -24,3 +24,4 @@ somehow couldnt crack this :( maybe in future but idk abt now this nga will prob
 
 sysmain off = ban
 clear journal = ban
+<img width="465" height="497" alt="image" src="https://github.com/user-attachments/assets/a2630c72-9cd7-4b3a-8dfa-ecdbc16408f9" />
