@@ -19,8 +19,9 @@ This guy uses Manual PE injection, it drops foxy.dll and writes it a raw windos 
 Search for these in system informer -> javaw -> memory -> strings then search these initialize_client_jni,cleanup_client.
 you can also dump so erm idk either ways this bypass is shit, bro got caught under 20 minutes 💔
 
+the loader is here somehow couldnt crack it maybe in futuree, if you think u can or help hmu 
+discord : deleted_user_6910062
 
-somehow couldnt crack this :( maybe in future but idk abt now this nga will probably change backend so erm
 
 sysmain off = ban
 clear journal = ban
