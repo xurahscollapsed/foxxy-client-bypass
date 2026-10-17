@@ -3,6 +3,9 @@
 
 This guy uses Manual PE injection, it drops foxy.dll and writes it a raw windos x64 dynamic library named ofc foxy.dll to disk along with an unpacked JVM helper AttachHelper.class
 
+Backend: https://foxxy-license-backend.foxxy-license-hub-728.workers.dev
+Phone no: 8602484044@fam
+
 
 [18]	https://foxxy-license-backend.foxxy-license-hub-728.workers.dev: Download Server
 [22]	/api/auth: endpoint of hwid auth
